@@ -1,4 +1,4 @@
-baseurl = "https://byronwoodfork.com"
+baseurl = "http://bwoodfork.github.io"
 theme = "ghostwriter"
 languageCode = "en-us"
 copyright = "Byron Woodfork"
