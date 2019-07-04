@@ -1,0 +1,3 @@
+[submodule "bwoodfork.github.io"]
+	path = bwoodfork.github.io
+	url = git@github.com:bwoodfork/bwoodfork.github.io.git
