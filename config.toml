@@ -1,9 +1,8 @@
-baseurl = "https://sad-montalcini-c65231.netlify.com/"
-#publishDir = "bwoodfork.github.io"
+baseurl = "https://byronwoodfork.com"
 theme = "ghostwriter"
 languageCode = "en-us"
 copyright = "Byron Woodfork"
-googleAnalytics = "XXX"
+googleAnalytics = "UA-100358714-1"
 disqusShortname = "XXX"
 
 [Privacy]
