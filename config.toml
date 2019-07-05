@@ -1,5 +1,5 @@
 baseurl = "https://bwoodfork.github.io"
-publishDir = "bwoodfork.github.io"
+#publishDir = "bwoodfork.github.io"
 theme = "ghostwriter"
 languageCode = "en-us"
 copyright = "Byron Woodfork"
