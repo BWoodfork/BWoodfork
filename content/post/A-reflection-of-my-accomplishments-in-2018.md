@@ -1,6 +1,6 @@
 +++
 title = "A reflection of my accomplishments in 2018"
-description = ""
+description = "Personal thoughts"
 date = 2019-02-23T02:13:50Z
 author = "Byron Woodfork"
 +++

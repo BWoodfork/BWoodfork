@@ -1,6 +1,6 @@
 +++
 title = "Some traits I look for in a potential apprentice"
-description = ""
+description = "Career Advice"
 date = 2017-06-02T02:13:50Z
 author = "Byron Woodfork"
 +++
