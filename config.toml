@@ -1,4 +1,4 @@
-baseurl = "https://bwoodfork.github.io"
+baseurl = "https://sad-montalcini-c65231.netlify.com/"
 #publishDir = "bwoodfork.github.io"
 theme = "ghostwriter"
 languageCode = "en-us"
